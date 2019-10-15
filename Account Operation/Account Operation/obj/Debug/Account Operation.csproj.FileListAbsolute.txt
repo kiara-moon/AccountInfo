@@ -1,0 +1,10 @@
+C:\Users\kiara\source\repos\Account Operation\Account Operation\bin\Debug\Account Operation.exe.config
+C:\Users\kiara\source\repos\Account Operation\Account Operation\bin\Debug\Account Operation.exe
+C:\Users\kiara\source\repos\Account Operation\Account Operation\bin\Debug\Account Operation.pdb
+C:\Users\kiara\source\repos\Account Operation\Account Operation\obj\Debug\Account Operation.csprojAssemblyReference.cache
+C:\Users\kiara\source\repos\Account Operation\Account Operation\obj\Debug\Account_Operation.Form1.resources
+C:\Users\kiara\source\repos\Account Operation\Account Operation\obj\Debug\Account_Operation.Properties.Resources.resources
+C:\Users\kiara\source\repos\Account Operation\Account Operation\obj\Debug\Account Operation.csproj.GenerateResource.cache
+C:\Users\kiara\source\repos\Account Operation\Account Operation\obj\Debug\Account Operation.csproj.CoreCompileInputs.cache
+C:\Users\kiara\source\repos\Account Operation\Account Operation\obj\Debug\Account Operation.exe
+C:\Users\kiara\source\repos\Account Operation\Account Operation\obj\Debug\Account Operation.pdb
